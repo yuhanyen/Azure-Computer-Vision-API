@@ -1,0 +1,33 @@
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe.config
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.pdb
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csprojResolveAssemblyReference.cache
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Form1.resources
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Properties.Resources.resources
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.GenerateResource.Cache
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.exe
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.pdb
+c:\users\函諺\documents\visual studio 2015\Projects\AzureCognitive\AzureCognitive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe.config
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.pdb
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Form1.resources
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.exe
+C:\Users\Administrator\Desktop\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.pdb
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe.config
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.exe
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.pdb
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.exe
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\bin\Debug\AzureCognitive.pdb
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Form1.resources
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.Properties.Resources.resources
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.GenerateResource.Cache
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csprojAssemblyReference.cache
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.CoreCompileInputs.cache
+C:\Users\函諺\Documents\Visual Studio 2015\Projects\AzureCognitive\AzureCognitive\AzureCognitive\obj\Debug\AzureCognitive.csproj.CopyComplete
